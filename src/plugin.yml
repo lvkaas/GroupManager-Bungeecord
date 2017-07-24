@@ -1,0 +1,9 @@
+main: de.lvkaas.groupmanager.bungee.GroupManager
+
+name: GroupManager
+author: lvkaas
+version: 1
+website: lvkaas.de
+
+commands:
+    group:
